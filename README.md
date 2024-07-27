@@ -2,11 +2,11 @@
 
 I am Raj Kumar Nepal, passionate Cyber Security Enthusiast, currently studying Bachelors (Hons.) of Cyber Security and DIgital Forensics.
 
-##Languages and Tools:
+## Languages and Tools:
 - Python
 - Rust
 
-##Cloud Computing:
+## Cloud Computing:
 - AWS
 - Oracle Cloud
 <!--
