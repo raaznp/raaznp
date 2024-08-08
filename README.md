@@ -5,6 +5,8 @@
 ## Programming Languages:
 - Python
 - Rust
+- C
+- C#
 
 ## Cloud Computing:
 - AWS
