@@ -5,6 +5,21 @@
 ## Programming Languages:
 - Python
 - Rust
+- C#
+- JavaScript
+
+## Frameworks:
+- Django
+- Actix
+- Node
+- React
+
+## Databases:
+- MySQL
+- Postgres
+- SQLite
+- MongoDB
+- SurrealDB
 
 ## Cloud Computing:
 - AWS
