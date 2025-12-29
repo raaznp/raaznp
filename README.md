@@ -25,8 +25,6 @@
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raaznp&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img src="https://github-readme-stats.vercel.app/api?username=raaznp&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="raaznp's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=raaznp&theme=radical&hide_border=true" alt="raaznp's GitHub Stats" />
 
 ## 
