@@ -5,8 +5,6 @@
 ## Programming Languages:
 - Python
 - Rust
-- C
-- C#
 
 ## Cloud Computing:
 - AWS
@@ -14,7 +12,7 @@
 - Microsoft Azure
 - Google Cloud
 
-## Cloud Computing:
+## Operating Systems:
 - Ubuntu
 - Kali Linux
 - Windows
