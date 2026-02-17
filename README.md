@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I am Raj Kumar Nepal, passionate Cyber Security Enthusiast, currently studying Bachelors (Hons.) of Cyber Security and DIgital Forensics.
+🌱 I am Raj Kumar Nepal, passionate AI Enthusiast, currently studying Bachelors (Hons.) of Cyber Security and DIgital Forensics.
 
 ## Programming Languages:
 - Python
