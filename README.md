@@ -10,9 +10,9 @@
 
 ## Frameworks:
 - Django
+- FastAPI
 - Actix
-- Node
-- React
+- Astro (Frontend)
 
 ## Databases:
 - MySQL
@@ -36,6 +36,7 @@
 ## CI/CD & Version Control Tools:
 - Git
 - Github
+- Codeberg
 - Github Actions
 
 ## 📊 GitHub Stats
