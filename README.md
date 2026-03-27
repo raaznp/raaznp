@@ -39,6 +39,6 @@
 - Codeberg
 - Github Actions
 
-## 📊 GitHub Stats
+## GitHub Stats
 <img src="https://komarev.com/ghpvc/?username=raaznp&style=for-the-badge&color=orange" alt=""/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raaznp&theme=radical&hide_border=true"/>
